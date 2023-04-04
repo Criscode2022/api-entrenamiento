@@ -1,0 +1,18 @@
+[
+	{
+		"idPersona" : 1,
+		"nombre" : "Carlos",
+		"apellido" : "García",
+		"edad" : 34,
+		"texto" : "Siempre había llevado un estilo de vida bastante descuidado y secundario, pero cuando comencé a notarme apenas sin energías me puse en las manos de Manuel y el cambio fue notorio en pocas semanas. No puedo recomendarlo más, será una gran experiencia y se adaptará a lo que necesites",
+		"avatar" : "https://uc0225956affeb6a7b4bb2d77c6f.previews.dropboxusercontent.com/p/thumb/AB0xw_fPskwWYpkBFZzZ4xDXfNVAuzUpX9lhcmvnoqOiY9o0Kji7wWh5WBO9FKVzCky-3ZQum_p_vn6M6EB-K4N7SVyEbLQ_iv-ChL0iG9STRGp0SdWhxJaA3rSkclvTmPEulICdfxS0kQYZLXwkYifhuT2wfYiBBtXZR41xyJnt9QpurI4Cr8FKBG8VEjrlxpesxdej2A-AY_aKglljZYZ7MqdeFZ41f9dm5A-nGMUuEqzNxCwGf7K5WFuZMTZYwWW4bz18_jv9Srhb4Vvu4lUQ13unN4HLF0nUu2L2NEMBC21HmFLQdR1QuOhwnICCFv5OkV-pzOVt_95YleNk7vKcKr2ehDD5XqTy93eP7ZPRW-FCIo0JQqoXb4zVZGZxTF9w-EsFqKMq66dnGjyRrO8N4fUZnEQBI9UyPIEyRK1uzw/p.png"
+	},
+	{
+		"idPersona" : 2,
+		"nombre" : "Lorena",
+		"apellido" : "López",
+		"edad" : 23,
+		"texto" : "Me siento muy joven y fuerte de espíritu y quiero que mi cuerpo y salud se correspondan con esto, por lo que me puse en manos de Pilar para conseguir masa muscular. Pronto tuvimos muy buena conexión y además de hacer un gran trabajo como entrenadora personal hace que sea una experiencia muy entretenida y divertida",
+		"avatar" : "https://previews.dropbox.com/p/thumb/AB1nx962pve9vFlJZ6Die62a9gaw_tgtLeJ3TTwYC3VMSQY9czE5qmSlLUhH5mhti86OVdo6lJMOsxCPwKUcg9rAaZJyzipVzvWpOKynINMHkXr2LH7Twj8Z9UrsRPfqFQyHZ7AVJgYojfep3X_w2QtxzBB1eRdT8iuXHOX9W8YszPMbj3BgTBLWpYPxa6sFxcyNSWqH509-nAO9l9HGy7MzUVAyF71fPBxEO9zmz-QdqmKMJ78IwgYKaCDnwS2GYqzMy5H3IPGMgUAnOK6PwzPmVoR8tnKs1UIv2p4NI-ObofUEX7kZX-XFgS3CZVtDB_vVTPQV0X25GBuwUkmEzOn-Y-fRVScEiTmNQ7JrVmgdUvqnTWiOQc6v4AyvY56GihI/p.png"
+	}
+]
